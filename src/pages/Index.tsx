@@ -23,12 +23,8 @@ const Index = () => {
         <nav className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
-              <div className="w-12 h-12 bg-primary rounded-lg flex items-center justify-center">
-                <Icon name="Factory" className="text-primary-foreground" size={28} />
-              </div>
               <div>
-                <h1 className="text-xl font-heading font-bold text-primary-foreground">Nelden Industry</h1>
-                <p className="text-xs text-primary-foreground/80">Россия</p>
+                <h1 className="text-2xl font-heading font-bold text-primary-foreground tracking-wide">NELDEN INDUSTRY</h1>
               </div>
             </div>
 
@@ -576,14 +572,8 @@ const Index = () => {
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
             <div>
-              <div className="flex items-center space-x-3 mb-4">
-                <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
-                  <Icon name="Factory" className="text-primary-foreground" size={24} />
-                </div>
-                <div>
-                  <h3 className="font-heading font-bold text-lg">Nelden Industry</h3>
-                  <p className="text-xs text-secondary-foreground/80">Россия</p>
-                </div>
+              <div className="mb-4">
+                <h3 className="font-heading font-bold text-xl tracking-wide">NELDEN INDUSTRY</h3>
               </div>
               <p className="text-sm text-secondary-foreground/80">
                 Официальный представитель итальянского производителя промышленного оборудования

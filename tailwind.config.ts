@@ -101,8 +101,8 @@ export default {
 				'slide-up': 'slide-up 0.8s ease-out'
 			},
 			fontFamily: {
-				'sans': ['Open Sans', 'system-ui', 'sans-serif'],
-				'heading': ['Montserrat', 'system-ui', 'sans-serif']
+				'sans': ['Roboto', 'system-ui', 'sans-serif'],
+				'heading': ['Roboto Condensed', 'system-ui', 'sans-serif']
 			}
 		}
 	},
